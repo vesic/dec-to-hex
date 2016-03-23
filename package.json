@@ -1,0 +1,19 @@
+{
+  "name": "hex-to-dec",
+  "version": "1.0.0",
+  "description": "## Usage Convert a hexadecimal string to a decimal number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesic/dec-to-hex.git"
+  },
+  "author": "dusan vesic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vesic/dec-to-hex/issues"
+  },
+  "homepage": "https://github.com/vesic/dec-to-hex#readme"
+}
